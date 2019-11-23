@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ds-patch-pal:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8cc060bb-e3f7-4cf4-841e-86f7ea2efffc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Drift_station_13/TOOLS/ds-pal/ds-patch-pal.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Drift_station_13/TOOLS/ds-pal/ds-patch_run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drift_station_13/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Drift_station_13/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drift_station_13/TOOLS/ds-pal/ds-pal.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Drift_station_13/TOOLS/ds-pal/ds-patch-pal.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drift_station_13/TOOLS/ds-pal/ds-pal.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drift_station_13/code/game/gamemodes/clock_cult/clock_cult.dm" beforeDir="false" afterPath="$PROJECT_DIR$/Drift_station_13/code/game/gamemodes/clock_cult/clock_cult.dm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drift_station_13/code/game/gamemodes/cult/cult.dm" beforeDir="false" afterPath="$PROJECT_DIR$/Drift_station_13/code/game/gamemodes/cult/cult.dm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drift_station_13/code/game/gamemodes/overthrow/overthrow.dm" beforeDir="false" afterPath="$PROJECT_DIR$/Drift_station_13/code/game/gamemodes/overthrow/overthrow.dm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drift_station_13/code/game/gamemodes/revolution/revolution.dm" beforeDir="false" afterPath="$PROJECT_DIR$/Drift_station_13/code/game/gamemodes/revolution/revolution.dm" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Drift_station_13" />
+  </component>
+  <component name="ProjectId" id="1TsU3lFx77CVKVK0tzJMeOoflYF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yori\IdeaProjects\ds-patch-pal\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ds-patch-pal" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cc060bb-e3f7-4cf4-841e-86f7ea2efffc" name="Default Changelist" comment="" />
+      <created>1574248099336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574248099336</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
